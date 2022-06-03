@@ -1,0 +1,26 @@
+.message{
+    height: 25rem;
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 8rem;
+    margin: 6rem auto;
+}
+.message p{
+    font-size: 1.3rem;
+}
+.message a{
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    padding: 0.5rem;
+}
+
+@media screen and (max-width:560px) {
+    .message{
+        width: 95%;
+    }
+}

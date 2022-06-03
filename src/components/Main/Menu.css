@@ -1,0 +1,19 @@
+.items-container{
+    width: 98%;
+    height: 100% !important;
+    padding: 0.5rem;
+   margin-top: 7rem !important;
+}
+.menu{
+    width: 100%;
+   height: 100%;
+ 
+    
+}
+.loader{
+    height: 10rem;
+}
+.loader span{
+    width: 2rem;
+    font-size: 2rem;
+}
